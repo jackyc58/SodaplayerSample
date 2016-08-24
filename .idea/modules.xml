@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SodaplayerSample.iml" filepath="$PROJECT_DIR$/SodaplayerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sodaPlayer/sodaPlayer.iml" filepath="$PROJECT_DIR$/sodaPlayer/sodaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sodaplayerSample/sodaplayerSample.iml" filepath="$PROJECT_DIR$/sodaplayerSample/sodaplayerSample.iml" />
+    </modules>
+  </component>
+</project>

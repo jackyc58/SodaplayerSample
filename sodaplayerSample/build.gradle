@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "info.sodapanda.sodaplayersample"
+        minSdkVersion 16
+        targetSdkVersion 19
+
+        sourceSets.main{
+            jni.srcDirs=[]
+            jniLibs.srcDir "src/main/jniLibs"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':sodaPlayer')
+    compile 'com.android.support:support-v4:19.1.0'
+}
