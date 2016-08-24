@@ -5,7 +5,7 @@ I export to Android Studio from Eclipse IDE.
 It has some bug.
 
 <br><br>
-Setup
+<b>Setup</b>
 
 1. Downlaod ffmpeg-3.0.2 source code: Download and decompress, then move to /SodaplayerSample/sodaPlayer/src/main/jni/
 2. Download Android NDK r10e.
