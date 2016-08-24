@@ -22,10 +22,10 @@ Test plan:
 
 Reference:
 
-1. NDK and JNI
+1. NDK and JNI <br>
 http://blog.xuite.net/lwchafter30/blog/373974237-Android+studio+1.5.1+NDK+JNI%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D%E8%88%87%E5%9F%B7%E8%A1%8C%E5%8E%9F%E7%90%86
 https://8085studio.wordpress.com/2015/04/25/android-studio-ndk-jni/
 
-2. Compiler FFmpeg shell
+2. FFmpeg compiler shell
 http://zheteng.me/android/2016/05/25/build-ffmpeg-for-android-with-x264/
 
