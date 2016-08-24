@@ -15,13 +15,13 @@ It has some bug.
 6. Build JNI<br>
 7. Android compiler.
 
-<br><br>
+<br>
 <b>Test plan:</b>
 
 1. Server: Use VLC make stream server, you can set http or rtsp protocol.<br>
-2. Client: Open app and input network path, ex. http://IP:8080 or rtsp://IP:8554<br>
+2. Client: Open app and input network path, ex. http://IP:8080 or rtsp://IP:8554
 
-<br><br>
+<br>
 <b>Reference:</b>
 
 1. NDK and JNI <br>
