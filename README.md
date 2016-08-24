@@ -7,11 +7,11 @@ It has some bug.
 <br>
 <b>Setup:</b>
 
-1. Downlaod ffmpeg-3.0.2 source code: Download and decompress, then move to /SodaplayerSample/sodaPlayer/src/main/jni/
+1. Downlaod ffmpeg-3.0.2 source code: Download and decompress, then move to SodaplayerSample/sodaPlayer/src/main/jni/
 2. Download Android NDK r10e.
-3. Modify file build_android_ndk_r10e.sh and make sure NDK path on /SodaplayerSample/sodaPlayer/src/main/jni/.
+3. Modify file build_android_ndk_r10e.sh and make sure NDK path on SodaplayerSample/sodaPlayer/src/main/jni/.
 4. Compiler ffmpeg: Use MinGW, run msys.bat, and change folder to build_android_ndk_r10e.sh local in terminal, then RUN build_android_ndk_r10e.sh
-5. Copy libs/xxx/include/* to inclued on /SodaplayerSample/sodaPlayer/src/main/jni/
+5. Copy libs/xxx/include/* to include/ on SodaplayerSample/sodaPlayer/src/main/jni/
 6. Build JNI<br>
 7. Android compiler.
 
