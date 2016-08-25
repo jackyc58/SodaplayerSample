@@ -38,7 +38,8 @@ It has some export bug need fixed.
 2. **FFmpeg compiler shell**<br>
 <a href="http://zheteng.me/android/2016/05/25/build-ffmpeg-for-android-with-x264/">Mac下为Android编译FFMPEG和x264 （一）</a><br>
 <a href="http://zheteng.me/android/2016/05/26/build-ffmpeg-for-android-with-x2642/">Mac下为Android编译FFMPEG和x264 （二）</a><br>
-3. Android NDK ABI 
+<br>
+3. **Android NDK ABI** <br>
 <a href="https://developer.android.com/ndk/guides/abis.html#arm64-v8a">ABI Management</a><br>
 
 <br>
