@@ -30,12 +30,12 @@ It has some export bug need fixed.
 <br>
 <b>Reference:</b>
 
-**1. NDK and JNI** <br>
+1. **NDK and JNI** <br>
 <a href="http://blog.xuite.net/lwchafter30/blog/373974237-Android+studio+1.5.1+NDK+JNI%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D%E8%88%87%E5%9F%B7%E8%A1%8C%E5%8E%9F%E7%90%86">Android studio 1.5.1 NDK JNI環境安裝與執行原理</a><br>
 <a href="https://8085studio.wordpress.com/2015/04/25/android-studio-ndk-jni/">Android筆記: Android Studio + NDK + JNI</a><br>
 <a href="http://blog.csdn.net/smallrainf/article/details/45132141">编译FFMpeg的Android版本，并整合到android studio</a><br>
 <br>
-**2. FFmpeg compiler shell**<br>
+2. **FFmpeg compiler shell**<br>
 <a href="http://zheteng.me/android/2016/05/25/build-ffmpeg-for-android-with-x264/">Mac下为Android编译FFMPEG和x264 （一）</a><br>
 <a href="http://zheteng.me/android/2016/05/26/build-ffmpeg-for-android-with-x2642/">Mac下为Android编译FFMPEG和x264 （二）</a><br>
 
