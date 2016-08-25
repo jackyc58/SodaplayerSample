@@ -24,8 +24,8 @@ It has some bug.
 <br>
 <b>Test plan:</b>
 
-1. Server: Use VLC make stream server, you can set http or rtsp protocol.<br>
-2. Client: Open app and input network path, ex. http://IP:8080 or rtsp://IP:8554
+1. **Server**: Use VLC create stream server, you can set http or rtsp protocol.<br>
+2. **Client**: Open app and input network path, ex. http://IP:8080 or rtsp://IP:8554
 
 <br>
 <b>Reference:</b>
