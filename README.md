@@ -15,7 +15,7 @@ It has some bug.
 <a href="http://dl.google.com/android/ndk/android-ndk-r10e-darwin-x86.bin">Mac OS X 32-bit</a>, 
 <a href="http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86.bin">Linux 32-bit (x86)</a>, 
 <a href="http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin">Linux 64-bit (x86)</a>).
-3. Modify file <p style="color:blud;">build_android_ndk_r10e.sh</p> and make sure NDK path on SodaplayerSample/sodaPlayer/src/main/jni/.
+3. Modify file *build_android_ndk_r10e.sh* and make sure NDK path on SodaplayerSample/sodaPlayer/src/main/jni/.
 4. Compiler ffmpeg: Use MinGW, run msys.bat, and change folder to build_android_ndk_r10e.sh local in terminal, then RUN build_android_ndk_r10e.sh
 5. Copy libs/xxx/include/* to include/ on SodaplayerSample/sodaPlayer/src/main/jni/
 6. Build JNI<br>
